@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\IT Class\\c#\\SeniorsRegistry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\registeruser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\registeruser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\benefit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\benefit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\benefit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\benefit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\registeruser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\registeruser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|g:\\it class\\c#\\seniorsregistry\\seniorsregistry\\senior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D5172E-2872-4396-BFD2-FC46C4C10513}|SeniorsRegistry\\SeniorsRegistry.csproj|solutionrelative:seniorsregistry\\senior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Benefit.xaml.cs",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\Benefit.xaml.cs",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\Benefit.xaml.cs",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\Benefit.xaml.cs",
+              "RelativeToolTip": "SeniorsRegistry\\Benefit.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:24:32.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Benefit.xaml",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\Benefit.xaml",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\Benefit.xaml",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\Benefit.xaml",
+              "RelativeToolTip": "SeniorsRegistry\\Benefit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T08:50:34.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\RegisterWindow.xaml",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\RegisterWindow.xaml",
+              "RelativeToolTip": "SeniorsRegistry\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T07:58:55.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\RegisterWindow.xaml.cs",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "SeniorsRegistry\\RegisterWindow.xaml.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAwwNEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:10:08.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\User.cs",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\User.cs",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\User.cs",
+              "RelativeToolTip": "SeniorsRegistry\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T04:09:24.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Senior.cs",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\Senior.cs",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\Senior.cs",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\Senior.cs",
+              "RelativeToolTip": "SeniorsRegistry\\Senior.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T04:09:17.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\App.xaml.cs",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\App.xaml.cs",
+              "RelativeToolTip": "SeniorsRegistry\\App.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T03:44:28.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\LoginWindow.xaml.cs",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "SeniorsRegistry\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAqwIsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:02:53.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\LoginWindow.xaml",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\LoginWindow.xaml",
+              "RelativeToolTip": "SeniorsRegistry\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T03:40:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\MainWindow.xaml",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\MainWindow.xaml",
+              "RelativeToolTip": "SeniorsRegistry\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T03:39:43.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SeniorsRegistry\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAYwGcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T03:39:42.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUser.xaml",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\RegisterUser.xaml",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\RegisterUser.xaml",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\RegisterUser.xaml",
+              "RelativeToolTip": "SeniorsRegistry\\RegisterUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T08:51:50.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterUser.xaml.cs",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\RegisterUser.xaml.cs",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\RegisterUser.xaml.cs",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\RegisterUser.xaml.cs",
+              "RelativeToolTip": "SeniorsRegistry\\RegisterUser.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:52:09.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\DataContext.cs",
+              "RelativeDocumentMoniker": "SeniorsRegistry\\DataContext.cs",
+              "ToolTip": "G:\\IT Class\\c#\\SeniorsRegistry\\SeniorsRegistry\\DataContext.cs",
+              "RelativeToolTip": "SeniorsRegistry\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:35:53.065Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

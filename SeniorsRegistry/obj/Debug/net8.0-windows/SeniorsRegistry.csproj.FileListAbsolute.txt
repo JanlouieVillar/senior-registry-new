@@ -1,0 +1,590 @@
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.exe
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.deps.json
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.runtimeconfig.json
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.pdb
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.AssemblyReference.cache
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.g.cs
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\App.g.cs
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.cache
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.lref
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.baml
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.baml
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.g.resources
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfoInputs.cache
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfo.cs
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CoreCompileInputs.cache
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsR.EFF91A72.Up2Date
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\refint\SeniorsRegistry.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.pdb
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.genruntimeconfig.cache
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\ref\SeniorsRegistry.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.exe
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.deps.json
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.runtimeconfig.json
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.pdb
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.AssemblyReference.cache
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\App.g.cs
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.cache
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.lref
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.g.resources
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfoInputs.cache
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfo.cs
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CoreCompileInputs.cache
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsR.EFF91A72.Up2Date
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\refint\SeniorsRegistry.dll
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.pdb
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.genruntimeconfig.cache
+D:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\ref\SeniorsRegistry.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.exe
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.deps.json
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.runtimeconfig.json
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.pdb
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.AssemblyReference.cache
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.g.cs
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\App.g.cs
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.cache
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.lref
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.baml
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.baml
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.g.resources
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.GeneratedMSBuildEditorConfig.editorconfig
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfoInputs.cache
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfo.cs
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CoreCompileInputs.cache
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CopyComplete
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\refint\SeniorsRegistry.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.pdb
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.genruntimeconfig.cache
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\ref\SeniorsRegistry.dll
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+E:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.baml
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.exe
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.deps.json
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.runtimeconfig.json
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.pdb
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.AssemblyReference.cache
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.g.cs
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.g.cs
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\App.g.cs
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.cache
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.lref
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.baml
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.baml
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.baml
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.g.resources
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.GeneratedMSBuildEditorConfig.editorconfig
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfoInputs.cache
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfo.cs
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CoreCompileInputs.cache
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsR.EFF91A72.Up2Date
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\refint\SeniorsRegistry.dll
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.pdb
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.genruntimeconfig.cache
+I:\2nd Semester 2023-2024\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\ref\SeniorsRegistry.dll
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.exe
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.deps.json
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.runtimeconfig.json
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.pdb
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.cache
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.lref
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.g.resources
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsR.EFF91A72.Up2Date
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\refint\SeniorsRegistry.dll
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.pdb
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\IT Class\C Sharp\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\ref\SeniorsRegistry.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.exe
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.deps.json
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.runtimeconfig.json
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.pdb
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.AssemblyReference.cache
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.cache
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.lref
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.g.resources
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfoInputs.cache
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfo.cs
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CoreCompileInputs.cache
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsR.EFF91A72.Up2Date
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\refint\SeniorsRegistry.dll
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.pdb
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.genruntimeconfig.cache
+C:\Users\rmliwag\Desktop\Classes\C#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\ref\SeniorsRegistry.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.exe
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.deps.json
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.runtimeconfig.json
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.pdb
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.AssemblyReference.cache
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.g.cs
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\App.g.cs
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.cache
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.lref
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.baml
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.baml
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.baml
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.g.resources
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.GeneratedMSBuildEditorConfig.editorconfig
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfoInputs.cache
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfo.cs
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CoreCompileInputs.cache
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\refint\SeniorsRegistry.dll
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.pdb
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.genruntimeconfig.cache
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\ref\SeniorsRegistry.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.exe
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.deps.json
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.runtimeconfig.json
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.pdb
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.AssemblyReference.cache
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.g.cs
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\App.g.cs
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.cache
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.lref
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.baml
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.baml
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.baml
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.g.resources
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.GeneratedMSBuildEditorConfig.editorconfig
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfoInputs.cache
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfo.cs
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CoreCompileInputs.cache
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\refint\SeniorsRegistry.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.pdb
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.genruntimeconfig.cache
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\ref\SeniorsRegistry.dll
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterUser.g.cs
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterUser.baml
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterUser.g.cs
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterUser.baml
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.exe
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.deps.json
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.runtimeconfig.json
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SeniorsRegistry.pdb
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.AssemblyReference.cache
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterUser.g.cs
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\App.g.cs
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.cache
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry_MarkupCompile.lref
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\MainWindow.baml
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterUser.baml
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterWindow.baml
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.g.resources
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.GeneratedMSBuildEditorConfig.editorconfig
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfoInputs.cache
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.AssemblyInfo.cs
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CoreCompileInputs.cache
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsR.EFF91A72.Up2Date
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\refint\SeniorsRegistry.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.pdb
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.genruntimeconfig.cache
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\ref\SeniorsRegistry.dll
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\Benefit.g.cs
+D:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\Benefit.baml
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\Benefit.g.cs
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\Benefit.baml
+F:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CopyComplete
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\Benefit.g.cs
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterUser.g.cs
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\Benefit.baml
+G:\IT Class\c#\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\RegisterUser.baml
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\Benefit.g.cs
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\Benefit.baml
+E:\movies\SeniorsRegistry\SeniorsRegistry\obj\Debug\net8.0-windows\SeniorsRegistry.csproj.CopyComplete
